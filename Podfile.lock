@@ -1,0 +1,21 @@
+PODS:
+  - PerspectiveTransform (1.1)
+
+DEPENDENCIES:
+  - PerspectiveTransform (from `https://github.com/paulz/PerspectiveTransform.git`)
+
+EXTERNAL SOURCES:
+  PerspectiveTransform:
+    :git: https://github.com/paulz/PerspectiveTransform.git
+
+CHECKOUT OPTIONS:
+  PerspectiveTransform:
+    :commit: f4cc363e3eabc9c8de7d9e40e15754798460817c
+    :git: https://github.com/paulz/PerspectiveTransform.git
+
+SPEC CHECKSUMS:
+  PerspectiveTransform: 50004740be832b409e9f4cf64c420e4d961c0070
+
+PODFILE CHECKSUM: b362edaa5b4a21943d79063d95d5ae84a291c283
+
+COCOAPODS: 1.14.3
